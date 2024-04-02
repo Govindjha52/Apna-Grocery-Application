@@ -1,0 +1,80 @@
+/* CSS */
+.footer-container {
+    position: relative; 
+    width: 100%;
+    background-color: #222f3d;
+    z-index: 100; 
+}
+
+footer {
+    background-color: #222f3d;
+    color: white;
+    margin-top: 5rem;
+    border-top: 3px solid yellowgreen;
+}
+
+.foot-panel1 {
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+
+.foot-panel2 {
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px; 
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none; 
+}
+
+ul a {
+    font-size: 0.85rem;
+    color: #dddddd;
+    text-decoration: none; 
+}
+
+.foot-panel3 {
+    background-color: #222f3d;
+    border-top: 0.2px solid white;
+    height: 150px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    background-image: url('./');
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
+
+.foot-panel4 {
+    background-color: #0f1111;
+    color: white;
+    height: 140px;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.pages {
+    padding-top: 25px;
+}
+
+.copyright {
+    padding-top: 5px;
+}
+
+
+
