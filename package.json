@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start" : " nodemon app.js"
   },
-  "author": "",
+  "author": "Govind jha",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.8",
